@@ -70,4 +70,8 @@ What we've covered in this lesson is:
 * Why we might want to treat our data as read-only.
 * How we can use the os module to keep our processed and raw data straight.
 
+TODO:
+
+I think SWC has some resources on Python Path and reusing code. Do anyone know where to find these?
+
 
